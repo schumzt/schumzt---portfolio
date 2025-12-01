@@ -1,0 +1,122 @@
+1. Layered Memory Stack
+
+1.1 Overview
+
+Human memory can be conceptualized as a multilayered architecture consisting of short-lived sensory traces, stable episodic records, generalized semantic abstractions, and identity-level schemas. Each layer transforms raw experience into increasingly structured representations. This stratified layout provides robustness, redundancy, and interpretability, enabling cognitive continuity across time.
+
+This section formalizes the structure, function, and interaction rules between each memory layer, showing how subjective experience becomes integrated into a unified and stable self-referential system.
+
+
+
+
+1.2 Sensory Traces (ST)
+
+Sensory traces represent the most immediate, short-lived layer of memory. They include raw, unprocessed data from visual, auditory, and tactile channels, persisting for only 300–1000 ms. Their role is not to store but to act as a temporary buffer that supports rapid updating of perception and provides material for higher layers to encode.
+
+Core attributes:
+
+Duration: 0.3–1.0 seconds
+
+High-fidelity, low-abstraction
+
+Vulnerable to noise and interference
+
+No identity-binding
+
+Serves as the input to episodic encoding
+
+
+Despite their fleeting nature, the fidelity of sensory traces determines the accuracy of subsequent episodic reconstructions. In this architecture, ST is modeled as the temporal “shock absorber” of cognition.
+
+
+
+
+1.3 Episodic Memory (EM)
+
+Episodic memory stores time-stamped experiences with contextual richness—locations, emotions, social cues, intentions, and sequential structure. EM is the substrate of autobiographical continuity and a major component in reconstructing meaning.
+
+In the architecture, EM plays two key roles:
+
+1. Contextual anchor: It binds sensory input to a specific moment in spacetime.
+
+
+2. Reconstruction reservoir: It allows semantic systems to re-interpret past events when new information arrives.
+
+
+
+Properties:
+
+Medium compression
+
+Personalized and viewpoint-dependent
+
+Temporally indexed
+
+High retrieval variability
+
+Sensitive to reinterpretation
+
+
+Importantly, EM is not static; it is constantly rewritten under semantic and identity pressures, creating a dynamic narrative of the self.
+
+
+
+
+1.4 Semantic Memory (SM)
+
+Semantic memory stores generalized, decontextualized knowledge—concepts, rules, categories, language structures, and statistical regularities. It is derived from repeated patterns across episodic memories, abstracted over time.
+
+SM forms the backbone of cognitive prediction and model-based reasoning.
+
+Key attributes include:
+
+High abstraction, low emotional load
+
+Stable and cross-situational
+
+Compact representation
+
+Supports analogy, categorization, and reasoning
+
+
+In the layered architecture, SM acts as the “knowledge compressor,” distilling raw experience into reusable structures.
+
+
+
+
+1.5 Identity Memory (IM)
+
+Identity memory represents the highest cognitive layer. It encodes the long-term, invariant structures that define a person’s character, beliefs, values, preferences, and self-concept.
+
+While episodic memory answers “What happened to me?”
+and semantic memory answers “What do I know?”
+identity memory answers “Who am I?”
+
+Function:
+
+Provides long-range stability
+
+Serves as a regulatory influence on EM reconstruction
+
+Shapes prediction of future behavior
+
+Determines moral, emotional, and narrative consistency
+
+
+Identity memory is the slowest to change but exerts the strongest top-down pressure. It is the architect of self-narrative coherence.
+
+
+
+
+1.6 Inter-Layer Transformations
+
+The layered stack operates as a pipeline rather than isolated modules. Experiences flow upward (ST → EM → SM → IM) via compression and abstraction; meanings flow downward (IM → SM → EM) via reinterpretation and narrative integration.
+
+This dual-direction flow ensures both:
+
+Memory stability: Higher layers constrain reinterpretation.
+
+Memory adaptability: Lower layers introduce novelty.
+
+
+This interplay is the foundational principle of the Memory Architecture.

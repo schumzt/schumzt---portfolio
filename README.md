@@ -44,5 +44,5 @@ In-progress papers, exploratory concepts, and experimental frameworks.
 ---
 
 ## 📬 Contact
-LinkedIn: https://linkedin.com/in/  
-Mail: schumzt@
+LinkedIn: https://www.linkedin.com/in/jongminlee-schumzt
+Mail: schumzt@gmail.com

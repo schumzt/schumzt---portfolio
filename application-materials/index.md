@@ -7,4 +7,4 @@ working resumes, outreach drafts, and formal application documents.
 - Statement of Purpose (statement-of-purpose.md)
 - Research Motivation Letter (research-motivation.md)
 - Portfolio Overview (portfolio-overview.md)
-- OpenAI Application Draft (openai-application-draft.md)
+- Application Draft (openai-application-draft.md)

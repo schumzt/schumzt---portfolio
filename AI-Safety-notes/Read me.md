@@ -65,7 +65,7 @@ It is believed that safe intelligence is created.
 ## 📬 Contact  
 **Jongmin Lee**  
 Email: **schumzt@gmail.com**  
-LinkedIn: https://www.linkedin.com/in/schumzt  
+LinkedIn: https://www.linkedin.com/in/jongminlee-schumzt
 
 ---
 

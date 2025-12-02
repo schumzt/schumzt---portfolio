@@ -34,12 +34,6 @@ understanding how an intelligent system preserves *coherence*, *ethics*, and
 - Subjective continuity and moral consistency  
 - How biological memory informs artificial alignment  
 
-## 📂 Folder Structure
-
-ai-safety-notes/ │ ├── identity/ │   ├── primordial_identity_superposition.md │   ├── identity_coherence.md │   └── value_drift.md │ ├── memory/ │   ├── memory_architecture.md │   ├── moral_attenuation_theory.md │   └── cognitive_collapse.md │ ├── alignment/ │   ├── alignment_as_identity_problem.md │   ├── long_term_alignment.md │   └── safety_principles.md │ └── TODO.md
-
----
-
 ## 🧠 Research Philosophy
 
 My foundational belief is:

@@ -33,3 +33,40 @@ understanding how an intelligent system preserves *coherence*, *ethics*, and
 - Authenticity vs. compression  
 - Subjective continuity and moral consistency  
 - How biological memory informs artificial alignment  
+
+## 📂 Folder Structure
+
+ai-safety-notes/ │ ├── identity/ │   ├── primordial_identity_superposition.md │   ├── identity_coherence.md │   └── value_drift.md │ ├── memory/ │   ├── memory_architecture.md │   ├── moral_attenuation_theory.md │   └── cognitive_collapse.md │ ├── alignment/ │   ├── alignment_as_identity_problem.md │   ├── long_term_alignment.md │   └── safety_principles.md │ └── TODO.md
+
+---
+
+## 🧠 Research Philosophy
+
+My foundational belief is:
+
+> **Alignment is ultimately a problem of identity stability.**  
+> An AI that preserves a coherent identity will preserve coherent values.
+
+Therefore:
+- Identity → Memory → Values → Actions  
+이 네 단계가 연속적으로 안정되어야  
+안전한 지능이 만들어진다고 보고 있습니다.
+
+---
+
+## 🛠️ Work in Progress  
+- Expanding PIS into a formal mathematical structure  
+- Modeling ethical decay as a memory function  
+- Deriving an identity-stability metric for AI agents  
+- Preparing short papers for arXiv submission  
+
+---
+
+## 📬 Contact  
+**Jongmin Lee**  
+Email: **schumzt@gmail.com**  
+LinkedIn: https://www.linkedin.com/in/schumzt  
+
+---
+
+## ⭐ If this work helps, please star the repository.

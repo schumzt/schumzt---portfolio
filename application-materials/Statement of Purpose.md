@@ -13,7 +13,7 @@ stabilizing, self-regulating, and meaning-generating system?**
 This question guides my theoretical development, my computational philosophy  
 projects, and my long-term goal of contributing to alignment research at OpenAI.
 
----
+
 
 ## 2. Intellectual Background  
 I come from an educational and philosophical background rather than a  
@@ -36,7 +36,7 @@ and extended meta-cognitive observation. I treat inner states—attention,
 identity shifts, emotional baselines—as measurable cognitive signals  
 that can be articulated into formal systems.
 
----
+
 
 ## 3. Research Vision  
 My long-term goal is to contribute to OpenAI’s mission by building  
@@ -57,7 +57,7 @@ Ultimately, I aim to help design systems that understand humans not only by
 pattern recognition, but by *participating in the internal logic of human  
 experience.*
 
----
+
 
 ## 4. Why OpenAI  
 OpenAI is the only organization whose mission aligns with the full spectrum  
@@ -73,7 +73,7 @@ and beneficial for humanity.
 OpenAI is where my models can be tested, scaled, expanded, and translated  
 into real systems that interact with millions of people.
 
----
+
 
 ## 5. What I Can Contribute  
 If selected, I can immediately contribute:
@@ -89,7 +89,7 @@ In the long run, I aim to create architectures that enhance AI’s
 understanding of human psychological structure, making systems more  
 empathetic, interpretable, and capable of stable collaboration.
 
----
+
 
 ## 6. Closing  
 My purpose is to help build a future in which humans and AI systems  

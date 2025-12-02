@@ -131,9 +131,9 @@ to produce stable, interpretable, and deeply aligned intelligence?”**
 ## 8. Contact
 **Jongmine Lee**  
 Cognitive Systems & AI Safety Research  
-*Email:* (optional)  
+*Email:* schumzt@gmail.com 
 *GitHub:* https://github.com/schumzt  
-*LinkedIn:* (optional)
+*LinkedIn:* https://www.linkedin.com/in/jongminlee-schumzt/
 
 ---
 

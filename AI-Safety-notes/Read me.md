@@ -49,8 +49,8 @@ My foundational belief is:
 
 Therefore:
 - Identity → Memory → Values → Actions  
-이 네 단계가 연속적으로 안정되어야  
-안전한 지능이 만들어진다고 보고 있습니다.
+These four steps need to be stabilized in a row
+It is believed that safe intelligence is created.
 
 ---
 

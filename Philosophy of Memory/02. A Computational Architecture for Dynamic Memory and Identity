@@ -1,0 +1,50 @@
+# A Computational Architecture for Dynamic Memory and Identity
+
+This document formalizes how memory dynamics can be mapped onto
+computational systems.
+
+---
+
+## 1. System Overview
+Memory is modeled as a graph whose structure reorganizes with each recall event.
+Nodes represent experiential fragments; edges represent meaning relations.
+
+---
+
+## 2. Retrieval as Re-Construction
+Retrieval is an inference process, not recovery.
+A “memory output” is the result of:
+- Current identity state
+- Active context index
+- Internal graph topology at recall time
+- AI-mediated information introduced into the system
+
+---
+
+## 3. Feedback Loops with Identity
+Identity acts as a global parameter that biases memory activation.
+Memory outputs modify identity, creating recursive loops.
+
+This mirrors how large language models (LLMs) adapt based on conversation state.
+
+---
+
+## 4. Computational Extensions: AI as a Co-Constructor
+Human–AI interaction changes:
+- Salience weights  
+- Meaning connections  
+- Accessible clusters  
+
+AI functions as:
+- An external working memory  
+- A contextual scaffold  
+- A relevance re-weighting mechanism  
+
+Thus, the architecture is hybrid: biological + computational.
+
+---
+
+## 5. Applications
+- Designing AI that adapts to user identity
+- Safety mechanisms for preventing identity destabilization
+- Memory-aligned personalization systems

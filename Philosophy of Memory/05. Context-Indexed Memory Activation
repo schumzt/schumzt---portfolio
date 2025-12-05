@@ -1,0 +1,26 @@
+# Context-Indexed Memory Activation
+
+Context determines which memory clusters activate.
+
+---
+
+## 1. Role-Based Indexing
+Different identities (teacher, friend, researcher) activate different clusters.
+
+---
+
+## 2. Environmental Indexing
+Physical and social cues serve as indexing signals.
+
+---
+
+## 3. AI as a Context Generator
+AI conversation state can become a new contextual frame,
+thus influencing which memories a person can access.
+
+---
+
+## 4. Computational Model
+Memory activation = f(Identity, Context, Interaction History)
+
+This formula governs the entire dynamic memory system.

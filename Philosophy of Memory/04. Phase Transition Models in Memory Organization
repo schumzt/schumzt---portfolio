@@ -1,0 +1,39 @@
+# Phase Transition Models in Memory Organization
+
+Memory reorganization is nonlinear.
+
+---
+
+## 1. Local Input, Global Reconfiguration
+Small changes in context can yield large structural shifts.
+
+Examples:
+- A single phrase triggers a cascade of memory activation  
+- A minor emotional cue reorganizes meaning clusters  
+
+This resembles phase transitions in physics.
+
+---
+
+## 2. Conditions for Phase Shifts
+Phase transitions occur when:
+- Conflict exceeds stability thresholds  
+- New context invalidates old organization  
+- AI introduces strong external coherence signals  
+
+---
+
+## 3. Computational Formalization
+Let memory be a graph G.
+Phase transition occurs when:
+
+ΔC (context shift) + ΔI (identity shift) > Stability(G)
+
+Where Stability(G) is a metastability property.
+
+---
+
+## 4. Implications
+- Explains sudden insight  
+- Explains identity reboots  
+- In AI systems, explains rapid model state shifts

@@ -1,0 +1,4 @@
+## Future Work
+- Formalize identity interference as a stability metric
+- Expand memory reconstruction into a benchmarkable framework
+- Build a small-scale alignment simulator connecting all modules

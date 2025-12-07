@@ -130,7 +130,7 @@ memory, narrative coherence, and AI-persona dynamics.
 
 ---
 
-## Diagram
+## 8. Diagram
 Diagram illustrates the Identity Uncertainty Principle,
 modeled after the Heisenberg uncertainty relation.
 
@@ -143,5 +143,5 @@ modeled after the Heisenberg uncertainty relation.
 
 ---
 
-## 8. License
+## 9. License
 MIT License

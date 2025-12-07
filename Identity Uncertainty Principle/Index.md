@@ -130,5 +130,18 @@ memory, narrative coherence, and AI-persona dynamics.
 
 ---
 
+## Diagram
+Diagram illustrates the Identity Uncertainty Principle,
+modeled after the Heisenberg uncertainty relation.
+
+ΔT · ΔA ≥ k
+
+- Thought Uncertainty (ΔT): variability in internal cognitive states  
+- Action Uncertainty (ΔA): variability in external behavior  
+- Persona as Superposition: identity exists as multiple potential self-states  
+- Environment as Measurement: context collapses the superposition into one expressed state
+
+---
+
 ## 8. License
 MIT License

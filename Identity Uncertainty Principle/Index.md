@@ -1,5 +1,6 @@
 # Identity Uncertainty Principle
 
+(This is a mathematical-metaphorical framework, not a claim of literal quantum identity.)
 A unified theoretical framework that models **identity**, **persona dynamics**,  
 and **behavioral variability** using a quantum-inspired uncertainty structure.
 
